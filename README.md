@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💫 About Me
+👋 Hey! I'm a Backend Developer
 
+Focused on building scalable backend services using Django REST Framework and Go/Gin.
+Passionate about clean architecture, designing well-structured APIs, and creating reliable backend systems.
+
+🔭 I’m currently working on
+
+Building backend services with Django REST & Go (Gin)
+
+Developing personal projects to improve architecture and performance
+
+Learning basic DevOps and deployment tools
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinamatari23@gmail.com) 
