@@ -1,16 +1,5 @@
-💫 About Me
-👋 Hey! I'm a Backend Developer
-
-Focused on building scalable backend services using Django REST Framework.
-Passionate about clean architecture, designing well-structured APIs, and creating reliable backend systems.
-
-🔭 I’m currently working on
-
-Building backend services with Django REST
-
-Developing personal projects to improve architecture and performance
-
-Learning basic DevOps and deployment tools
+Python Backend Developer · Django · DRF · RAG Pipelines · Docker
+Building production-ready backend systems and AI-powered applications
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinamatari23@gmail.com) 
